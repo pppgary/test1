@@ -1,4 +1,4 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization 2
 * text=auto
 
 # Custom for Visual Studio
@@ -14,5 +14,5 @@
 *.pdf  diff=astextplain
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+*.RTF	 diff=astextplain1
 int main
